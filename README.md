@@ -8,7 +8,7 @@ PDF Annotator is a React Web app for PDF Annotations , highlights, editing. It p
 
 ## Demo
 
-You can explore all of the functionality in our [showcase](https://www.pdftron.com/webviewer/demo/).
+You can explore all of the functionality in our [showcase](https://effulgent-brioche-3641f5.netlify.app/).
 
 ## Initial setup
 
