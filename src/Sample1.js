@@ -10,7 +10,7 @@ const Sample1 = () => {
     WebViewer(
       {
         path: '/webviewer/lib',
-        initialDoc: '/files/sample1.pdf',
+        initialDoc: 'https://arxiv.org/pdf/2212.08011.pdf',
       },
       viewer.current,
     ).then((instance) => {

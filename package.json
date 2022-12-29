@@ -2,7 +2,7 @@
   "name": "webviewer-react-sample",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pdftron.github.io/webviewer-react-sample",
+  "homepage": "",
   "dependencies": {
     "@pdftron/webviewer": "^8.0.0",
     "react": "^16.6.0",
