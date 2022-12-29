@@ -1,7 +1,7 @@
-import React, { useRef, useEffect } from 'react';
-import WebViewer from '@pdftron/webviewer';
+import React from 'react';
+
 import './App.css';
-import { Link, NavLink, NavLinkProps } from "react-router-dom";
+import { Link} from "react-router-dom";
 
 const App = () => {
   
